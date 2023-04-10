@@ -18,7 +18,7 @@ The web app is deployed on Heroku and can be accessed at [[ HEROKU APP](https://
 
 ## Usage
 
-To use the web app, simply navigate to [[HEROKU APP](https://chitralpatil-spam-classifier.herokuapp.com/)]. Input a text message and click "Predict". The app will return a classification of either "spam" or "ham" along with the probability of the prediction.
+To use the web app, simply navigate to [[HEROKU APP](https://detection-spam.herokuapp.com/)]. Input a text message and click "Predict". The app will return a classification of either "spam" or "ham" along with the probability of the prediction.
 
 ## Installation
 
